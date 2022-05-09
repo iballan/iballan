@@ -65,38 +65,32 @@
       <th>Duration</th>
     </tr>
   </thead>
-  
   <tbody>
     <tr>
       <td><b><a href="https://www.marketyo.com/">Software Consultant</a> </b></td>
       <td>Mobile apps development consultant.</td>
       <td>2022 - Present</td>
     </tr>
-    
     <tr>
       <td><b><a href="https://www.marketyo.com/">Mobile Developer Team Leader</a> </b></td>
       <td>Development and maintenance of multiple mobile apps. Leading mobile development teams.</td>
       <td>2020 - 2021</td>
     </tr>
-    
   	<tr>
       <td><b><a href="https://www.marketyo.com/">Mobile apps developer</a> </b></td>
       <td>Mobile app developer for Android and iOS.</td>
       <td>2017 - 2019</td>
     </tr>
-    
     <tr>
       <td><b><a href="https://emse.com.tr/">Software Engineer at Emse</a> </b></td>
       <td>Developed and maintained multiple platforms using technologies such as WinForms, Java and Android embedded etc.</td>
       <td>2015 - 2016</td>
     </tr>
-    
     <tr>
           <td><b><a href="https://mbh01.com/">Freelancer</a></b></td>
           <td>I do work as a freelancer on my side project and projects that I like and believe in.</td>
       <td>2013 - Present</td>
     </tr>
-    
   </tbody>
 </table>
 </details>
