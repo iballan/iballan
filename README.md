@@ -67,9 +67,14 @@
   </thead>
   <tbody>
     <tr>
+      <td><b><a href="https://www.venmo.com/">iOS Developer</a> </b></td>
+      <td>Venmo iOS App.</td>
+      <td>2022 - Present</td>
+    </tr>
+    <tr>
       <td><b><a href="https://www.marketyo.com/">Software Consultant</a> </b></td>
       <td>Mobile apps development consultant.</td>
-      <td>2022 - Present</td>
+      <td>2021 - 2022</td>
     </tr>
     <tr>
       <td><b><a href="https://www.marketyo.com/">Mobile Developer Team Leader</a> </b></td>
@@ -111,7 +116,7 @@
 
 
 <!--STARTS_HERE_QUOTE_README-->
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 • <i>“Ideas are easy. Execution is everything”— John Doerr </i>
 <!--ENDS_HERE_QUOTE_README-->
