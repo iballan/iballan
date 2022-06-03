@@ -1,6 +1,6 @@
 ### Selam there 👋
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45"> About Me:
 - 🏦 I'm a Software Engineer working as an iOS Developer at PayPal
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.swift**, **.kt**, **.sql**, **.dart**
