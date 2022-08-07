@@ -1,7 +1,7 @@
 ### Selam there 👋
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45"> About Me:
-- 🏦 I'm a Software Engineer working as an iOS Developer at PayPal
+- 🏦 I'm a Software Engineer working as Mobile Developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.swift**, **.kt**, **.sql**, **.dart**
 - 📖 I ready Business & Finance, Self-development, and Software related books and articals.
