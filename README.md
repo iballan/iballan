@@ -17,14 +17,14 @@
     "code" : ["Dart", "Swift", "Java", "Kotlin"],
     "askMeAbout" : ["travel", "mobile app dev", "business books", "languages", "tech"],
     "technologies" : {
-        "backEnd" : ["Flask", "Fiber", "Springboot"],
+        "backEnd" : ["Springboot", "DotNet"],
         "mobileApp" : ["Flutter", "iOS", "Android"],
         "devOps" : ["Google Cloud", "*-Docker🐳", "AWS"],
         "databases" : ["SQLite", "MySql", "CoreData", "Firebase Realtime Database"],
         "misc" : ["Firebase", "Fastlane"]
     },
     "architecture": ["MVVM", "Bloc"],
-    "currentFocus" : "Family 👨‍👩‍👦, Travel ✈️, Job 👨‍💻"
+    "currentFocus" : "Family 👨‍👩‍👦, Travel ✈️, Sport 🏃‍♂️, Job 👨‍💻"
 }
 ```
 ## Blog
