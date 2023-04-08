@@ -23,40 +23,15 @@
         "databases" : ["SQLite", "MySql", "CoreData", "Firebase Realtime Database"],
         "misc" : ["Firebase", "Fastlane"]
     },
-    "architecture": ["MVVM", "Bloc"],
+    "architecture": ["MVVM", "MVVM-C", "Bloc"],
     "currentFocus" : "Family 👨‍👩‍👦, Travel ✈️, Sport 🏃‍♂️, Job 👨‍💻"
 }
 ```
-## Blog
 
-<!-- BLOG-POST-LIST:START -->
-- [Every Developer MUST know SOLID Principles](https://www.mbh01.com/every-developer-must-know-solid-principles/)
-- [MY FIRST TRAVEL VLOG! 4 MISTAKES I HAVE MADE](https://www.mbh01.com/my-first-travel-vlog/)
-<!-- BLOG-POST-LIST:END -->
-
-## 𝗦𝘁𝗮𝘁𝘀
-![Muhammed's github stats](https://github-readme-stats.vercel.app/api?username=iballan&show_icons=true&theme=dracula)
-
-
-
-<h1 align="center"> 🔧 Skills & Tools: </h1>
-<p>
-<a target="_blank"><img alt="Dart" src="https://img.shields.io/badge/Dart-%2312100E.svg?logo=dart&style=for-the-badge&logoColor=ee0606"/></a> 
-<a target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a> 
-<a target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/></a> 
-<a target="_blank"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/></a> 
-<a target="_blank"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a> 
-<a target="_blank"><img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-  <a target="_blank"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-00000F?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
-<a target="_blank"><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
-  <a target="_blank"><img alt="Firebase" src="https://img.shields.io/badge/firebase-00000F?style=for-the-badge&logo=firebase&logoColor=white"/></a>
-<a target="_blank"><img alt="mbh01" src="https://img.shields.io/badge/mbh01-Travel%20%26%20Learn-blue?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-<a target="_blank"><img alt="fastlane" src="https://img.shields.io/badge/fastlane-00000F?style=for-the-badge&logo=fastlane&logoColor=white" /></a>
-
-</p>
-
+<!-- Start of work experience section -->
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="50"> Working Experience...  
 <details>
-<summary><b> My Work Experience :point_right: </b></summary>
+<summary><b> Open :point_right: </b></summary>
 <table>
   <thead>
     <tr>
@@ -67,9 +42,14 @@
   </thead>
   <tbody>
     <tr>
+      <td><b><a href="https://www.trxtraining.com/">Sr Mobile Developer</a> </b></td>
+      <td>TRX</td>
+      <td>2023 - Present</td>
+    </tr>
+    <tr>
       <td><b><a href="https://www.venmo.com/">iOS Developer</a> </b></td>
       <td>Venmo iOS App.</td>
-      <td>2022 - Present</td>
+      <td>2022 - 2022</td>
     </tr>
     <tr>
       <td><b><a href="https://www.marketyo.com/">Software Consultant</a> </b></td>
@@ -100,6 +80,35 @@
 </table>
 </details>
 <!-- end work experience section -->
+
+
+## Blog
+
+<!-- BLOG-POST-LIST:START -->
+- [Every Developer MUST know SOLID Principles](https://www.mbh01.com/every-developer-must-know-solid-principles/)
+- [MY FIRST TRAVEL VLOG! 4 MISTAKES I HAVE MADE](https://www.mbh01.com/my-first-travel-vlog/)
+<!-- BLOG-POST-LIST:END -->
+
+## 𝗦𝘁𝗮𝘁𝘀
+![Muhammed's github stats](https://github-readme-stats.vercel.app/api?username=iballan&show_icons=true&theme=dracula)
+
+
+
+<h1 align="center"> 🔧 Skills & Tools: </h1>
+<p>
+<a target="_blank"><img alt="Dart" src="https://img.shields.io/badge/Dart-%2312100E.svg?logo=dart&style=for-the-badge&logoColor=ee0606"/></a> 
+<a target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a> 
+<a target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/></a> 
+<a target="_blank"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/></a> 
+<a target="_blank"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a> 
+<a target="_blank"><img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a target="_blank"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-00000F?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+<a target="_blank"><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
+  <a target="_blank"><img alt="Firebase" src="https://img.shields.io/badge/firebase-00000F?style=for-the-badge&logo=firebase&logoColor=white"/></a>
+<a target="_blank"><img alt="mbh01" src="https://img.shields.io/badge/mbh01-Travel%20%26%20Learn-blue?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a target="_blank"><img alt="fastlane" src="https://img.shields.io/badge/fastlane-00000F?style=for-the-badge&logo=fastlane&logoColor=white" /></a>
+
+</p>
 
 
 ## Links
