@@ -31,7 +31,7 @@
 <!-- Start of work experience section -->
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="50"> Working Experience...  
 <details>
-<summary><b> Open :point_right: </b></summary>
+<summary><b> Expand :point_right: </b></summary>
 <table>
   <thead>
     <tr>
