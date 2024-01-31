@@ -90,7 +90,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## 𝗦𝘁𝗮𝘁𝘀
-![Muhammed's github stats](https://github-readme-stats.vercel.app/api?username=iballan&show_icons=true&theme=dracula)
+![Muhammed's github stats](https://github-readme-stats.vercel.app/api?username=iballan&show_icons=true&theme=dark)
 
 
 
