@@ -4,7 +4,7 @@
 - 🏦 I'm a Software Engineer working as Mobile Developer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.swift**, **.kt**, **.sql**, **.dart**
-- 📖 I ready Business & Finance, Self-development, and Software related books and articals.
+- 📖 I read Business & Finance, Self-development, and Software related books and articals.
 - 💬 Talk to me about Travel Destenation, New Techs, Business Ideas.
 - I write articles on <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="30"/>
 <!--- ⚡ Fun fact: I started youtube channel to get over my shyness -->
